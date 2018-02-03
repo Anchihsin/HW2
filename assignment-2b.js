@@ -3,5 +3,6 @@ function setup() {
 }
 
 function draw() {
-  line(random(width), random(height), random(width), random(height));
+  line(170, 170, random(170,340), random(170));
 }
+
