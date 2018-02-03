@@ -1,7 +1,8 @@
+
 function setup() {
   createCanvas(340, 340);
 }
 
 function draw() {
-  line(random(width), random(height), random(width), random(height));
+  line((170), (170), random(width), random(height));
 }
